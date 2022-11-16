@@ -4,7 +4,7 @@ email: tanjilarehnuma0@gmail.com
 url: https://moonartista.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "Graphics Design, separated by commas"
-skills: "User Interface Designer - Graphic Artist - User Experience Designer"
+skills: "Graphic Artist - UI/UX Designer"
 meta_author: Rehnuma Tanjila
 
 # Google webmaster tools
@@ -48,8 +48,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Green Road
+  - line: Dhanmondi, Dhaka
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
