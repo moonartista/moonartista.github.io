@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2016-10-15
+img: frog-cartoon.png
+img-small: frog-cartoon.png
+alt: image-alt
+project-date: April 2021
+client: Start Bootstrap
+category: Poster design
+description: A creative cartoon drawing.
+---

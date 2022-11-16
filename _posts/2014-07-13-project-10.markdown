@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 10
+date: 2019-10-15
+img: Skillcanvas_main logo file.png
+img-small: Skillcanvas_main logo file.png
+alt: image-alt
+project-date: April 2021
+client: Start Bootstrap
+category: Poster design
+description: A creative cartoon drawing.
+---
