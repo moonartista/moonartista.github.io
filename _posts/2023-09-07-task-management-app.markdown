@@ -6,7 +6,6 @@ img: taskapp.png
 img-small: task_app_banner.jpg
 alt: image-alt
 project-date: August 2023
-client: Start Bootstrap
 category: Mobile app UI/UX design
 description: A on-boarding module design.
 ---

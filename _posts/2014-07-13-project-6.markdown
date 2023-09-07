@@ -6,7 +6,6 @@ img: HORROR-MOVI-POSTER.png
 img-small: HORROR-MOVI-POSTER.png
 alt: image-alt
 project-date: April 2021
-client: Start Bootstrap
 category: Poster design
 description: A Movie Poster.
 ---

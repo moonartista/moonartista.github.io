@@ -6,6 +6,5 @@ img: minimal.png
 img-small: minimal_short.png
 alt: image-alt
 project-date: July 2022
-client: Theme Forest
 category: Web Development
 ---

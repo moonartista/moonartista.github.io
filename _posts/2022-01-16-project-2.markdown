@@ -6,6 +6,5 @@ img: manan.png
 img-small: Manan_short.png
 alt: image-alt
 project-date: January 2022
-client: Start Bootstrap
 category: Web Development
 ---

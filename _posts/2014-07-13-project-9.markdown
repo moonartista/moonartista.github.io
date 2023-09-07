@@ -6,7 +6,6 @@ img: frog-cartoon.png
 img-small: frog-cartoon.png
 alt: image-alt
 project-date: April 2021
-client: Start Bootstrap
 category: Poster design
 description: A creative cartoon drawing.
 ---

@@ -6,7 +6,6 @@ img: 10min.png
 img-small: 10min.png
 alt: image-alt
 project-date: April 2021
-client: Start Bootstrap
 category: Poster design
 description: A promotion banner design.
 ---
